@@ -1,0 +1,12 @@
+.row1 {
+  background-image: url("/backgrounds/hero.jpg");
+  background-size: cover;
+  height: auto;
+}
+
+.nav-brnd {
+  color: white;
+}
+.logo {
+  color: white;
+}
